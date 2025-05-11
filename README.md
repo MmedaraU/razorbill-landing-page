@@ -21,11 +21,11 @@ This is a recreation of the design in this [tweet](https://x.com/Kanishk3D/statu
 ### Screenshot
 
 - Design Inspiration: ![Design Inspiration](assets/images/design-inspiration.jpg)
-- Desktop View: ![Desktop View](assets/images/desktop-view.gif)
+- Desktop View:  ![Desktop View](assets/images/desktop-view.gif)
 
 
 ### Links
-- [Live Site URL](https://mmedarau.github.io/bento-grid/)
+- [Live Site URL](https://mmedarau.github.io/razorbill-landing-page/)
 
 ## My process
 
