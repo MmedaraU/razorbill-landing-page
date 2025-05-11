@@ -11,6 +11,7 @@ This is a recreation of the design in this [tweet](https://x.com/Kanishk3D/statu
     - [Links](#links)
   - [My process](#my-process)
     - [Built with](#built-with)
+    - [My experience](#my-experience)
   - [Author](#author)
 
 
@@ -19,8 +20,8 @@ This is a recreation of the design in this [tweet](https://x.com/Kanishk3D/statu
 
 ### Screenshot
 
-![Design Inspiration](assets/images/desktop-view.png)
-![Desktop View](assets/images/mobile-view.png)
+- Design Inspiration: ![Design Inspiration](assets/images/design-inspiration.jpg)
+- Desktop View: ![Desktop View](assets/images/desktop-view.gif)
 
 
 ### Links
@@ -34,6 +35,8 @@ This is a recreation of the design in this [tweet](https://x.com/Kanishk3D/statu
 - Sass/SCSS
 - Flexbox
 
+### My experience
+Tried using `viewport-width, vw` instead of `rem` for font-sizing. 
 
 ## Author
 
